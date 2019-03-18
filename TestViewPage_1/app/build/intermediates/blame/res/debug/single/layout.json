@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/build/intermediates/res/merged/debug/layout/layout2.xml",
+        "source": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/src/main/res/layout/layout2.xml"
+    },
+    {
+        "merged": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/build/intermediates/res/merged/debug/layout/layout3.xml",
+        "source": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/src/main/res/layout/layout3.xml"
+    },
+    {
+        "merged": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/build/intermediates/res/merged/debug/layout/layout1.xml",
+        "source": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/src/main/res/layout/layout1.xml"
+    },
+    {
+        "merged": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/fish/AndroidStudioProjects/RecycleView/TestViewPage_1/app/src/main/res/layout/activity_main.xml"
+    }
+]
